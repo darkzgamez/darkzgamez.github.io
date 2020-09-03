@@ -1,0 +1,15 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/5.05/Bin%20Loader/expl.js
+../../../../exploits/5.05/Bin%20Loader/index.html
+../../../../exploits/5.05/Bin%20Loader/kernel.js
+../../../../exploits/5.05/Bin%20Loader/ping.js
+../../../../exploits/5.05/Bin%20Loader/rop.js
+../../../../exploits/5.05/Bin%20Loader/syscalls.js
+../../../../exploits/5.05/Bin%20Loader/userland.js
+
+NETWORK:
+*
+
+# Hash: C6459D6705C21138314F7562158716DF

@@ -1,0 +1,10 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/5.05/WebRTE/index.html
+../../../../exploits/5.05/WebRTE/payload.js
+
+NETWORK:
+*
+
+# Hash: A4EB7EFC2D26FE4A515433E493D51A1E

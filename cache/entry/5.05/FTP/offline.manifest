@@ -1,0 +1,10 @@
+CACHE MANIFEST
+
+CACHE:
+../../../../exploits/5.05/FTP/index.html
+../../../../exploits/5.05/FTP/payload.js
+
+NETWORK:
+*
+
+# Hash: 5E1D4248E5BB8D79C93319FB3D6A350A
